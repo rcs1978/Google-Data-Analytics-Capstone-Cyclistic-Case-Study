@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Capstone-Cyclistic-Case-Study
+# Google Data Analytics Capstone Cyclistic Case Study
 
 ## Introduction
 The Cyclistic Bike Share Case Study serves as the completion of my experience with the Google Data Analytics Professional Certificate on Coursera. This project involves applying the data analysis process acquired during the course, which revolves around the essential
